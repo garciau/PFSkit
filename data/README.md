@@ -2,7 +2,7 @@ This folder contains the data for the project, with files:
   * output_StdQ_golddataset.xlsx
   * output_GoldDataset_Codebook 20190522
   * input_PISA_learners.csv
-  * input_pfs_cognitive_mex_2018.csvd
+  * input_pfs_cognitive_mex_2018.csv
 
   * Security and Confidentiality:
   * Item scoring
